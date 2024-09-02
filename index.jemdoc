@@ -3,9 +3,9 @@
 
 ~~~
 {}{img_left}{./figure/bio1.jpg}{alt text}{270}{300}{}
-I am a postdoctoral researcher in [https://ieor.berkeley.edu/ Industrial Engineering & Operations Research Department] at Univeristy of California, Berkeley advised by Professor [https://xinguo.ieor.berkeley.edu/ Xin Guo]. I obtained my Ph.~D. in the Department of [https://orfe.princeton.edu Operations Research and Financial Engineering] at Princeton University supervised by Professor [http://www.columbia.edu/~dl3133/ Daniel Lacker] and Professor [http://mykhaylo.princeton.edu/ Mykhaylo Shkolnikov] in 2021. Prior to these, I received my bachelor's degree in Math from Tsinghua University in 2016. \n\n
+I am an Assistant Professor at Department of Statistic, The Chinese University of Hong Kong. Previously, I was a postdoctoral researcher in [https://ieor.berkeley.edu/ Industrial Engineering & Operations Research Department] at Univeristy of California, Berkeley advised by Professor [https://xinguo.ieor.berkeley.edu/ Xin Guo]. I obtained my Ph.~D. in the Department of [https://orfe.princeton.edu Operations Research and Financial Engineering] at Princeton University supervised by Professor [http://www.columbia.edu/~dl3133/ Daniel Lacker] and Professor [http://mykhaylo.princeton.edu/ Mykhaylo Shkolnikov] in 2021. Prior to these, I received my bachelor's degree in Math from Tsinghua University in 2016. \n\n
  
-I can be contacted at jiachengz \[at\] berkeley \[dot\] edu \n
+I can be contacted at jiachengzhang \[at\] cuhk \[dot\] edu \[dot\] hk \n
 Here is my [./CV/Resume.pdf CV]. \n\n
 
 My research focus lies in the theory of probability and stochastic optimization. I have worked on stochastic partial differential equations, especially Mckean-Vlasov type equation, partial differential equations, mathematical finance like stochastic portfolio theory and stochastic volatility modeling in the past few years. \n\n
@@ -33,12 +33,12 @@ Submitted. \n
 - [https://arxiv.org/abs/2302.07470 On time-consistent equilibrium stopping under aggregation of diverse discount rates] \n
 Submitted. \n
 with [https://sites.google.com/view/shuoqingdeng/ Shuoqing Deng] and [https://sites.google.com/site/xiangyuama/ Xiang Yu]\n
-- [https://arxiv.org/abs/2306.04788 Deep Learning for Population-Dependent Controls in Mean Field Control Problems] \n
-Submitted. \n
-with [https://www.gokcedayanikli.com/ Gökçe Dayanıklı] and [https://mlauriere.github.io/ Mathieu Laurière]\n
-- A sharp interface limit in the Giacomin-Lebowitz model of phase segregation.\n
-with [http://mykhaylo.princeton.edu/ Mykhaylo Shkolnikov] \n
-In progress.
+- [https://dl.acm.org/doi/10.5555/3635637.3663117 Deep Learning for Population-Dependent Controls in Mean Field Control Problems] \n
+Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems \n
+with [https://www.gokcedayanikli.com/ Gokce Dayanikli] and [https://mlauriere.github.io/ Mathieu Lauriere]\n
+%- A sharp interface limit in the Giacomin-Lebowitz model of phase segregation.\n
+%with [http://mykhaylo.princeton.edu/ Mykhaylo Shkolnikov] \n
+%In progress.
 
 
 
